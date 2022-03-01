@@ -1,1 +1,1 @@
-
+ssh Ubuntu uname
